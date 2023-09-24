@@ -1,0 +1,15 @@
+{
+  "name": "my-simple-backend",
+  "version": "1.0.0",
+  "description": "Hello, welcome to my notekeeping app!",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

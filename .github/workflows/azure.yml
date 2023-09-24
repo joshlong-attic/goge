@@ -26,3 +26,4 @@ jobs:
       run: |
         java Hello.java >> out
         cat out 
+
