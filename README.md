@@ -1,1 +1,4 @@
-# my-simple-backend
+# My Notekeeping App
+
+Hello, welcome to my notekeeping app! 
+
