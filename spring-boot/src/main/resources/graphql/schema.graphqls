@@ -1,0 +1,22 @@
+
+type Mutation {
+  addUser (username: String) : User
+  deleteUser (username:String) : User
+}
+
+type Query {
+ usersByName(name: String) : User
+ users: [User]
+}
+
+type User {
+ id: ID
+ username:String
+ notes: [Note]
+}
+
+type Note {
+ id: ID
+ title : String
+ content: String
+}
